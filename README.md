@@ -13,3 +13,15 @@ Olá! Me chamo Maylis Maria!
 </div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maylismaria&layout=donut-vertical)
+
+ <a href="https://github.com/thamirespereira">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thamirespereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamirespereira&layout=compact&langs_count=7&theme=dark"/>
+   <br>
+   <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
+   <img src="https://img.icons8.com/nolan/64/python.png"/>
+   <img src="https://img.icons8.com/nolan/64/html-5.png"/>
+   <img src="https://img.icons8.com/nolan/64/javascript.png"/>
+   
+</div>
+ 
